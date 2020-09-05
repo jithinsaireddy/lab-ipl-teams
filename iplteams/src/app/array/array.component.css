@@ -1,0 +1,13 @@
+.row {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+  padding: 50px;
+  width: 80%;
+}
+
+.column {
+  display: flex;
+  justify-content: space-evenly;
+  width: 80%;
+}

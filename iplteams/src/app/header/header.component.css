@@ -1,0 +1,14 @@
+.ipl {
+  background: orangered;
+  width: 65%;
+  height: 60px;
+  margin-left: 230px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  top: 20px;
+  position: absolute;
+  font-size: medium;
+  color: white;
+}
